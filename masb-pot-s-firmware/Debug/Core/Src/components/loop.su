@@ -1,0 +1,3 @@
+loop.c:22:6:setup	8	static
+loop.c:28:6:loop	104	static
+loop.c:58:6:interrupt_management	64	static
